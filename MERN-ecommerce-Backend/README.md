@@ -1,7 +1,7 @@
 
 # Description:
 
-Explore the world of MERN stack development with CoderDost's comprehensive E-commerce Project. This project encompasses a powerful frontend built with React, incorporating cutting-edge technologies like React 18, Tailwind CSS, and Redux Toolkit with Async Thunk for state management. The backend, developed in Node.js, Express, and Mongoose, forms a robust foundation for the entire system.
+Explore the world of MERN stack development with this  E-commerce Project. This project encompasses a powerful frontend built with React, incorporating cutting-edge technologies like React 18, Tailwind CSS, and Redux Toolkit with Async Thunk for state management. The backend, developed in Node.js, Express, and Mongoose, forms a robust foundation for the entire system.
 
 # Key Features:
 
